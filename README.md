@@ -3,6 +3,7 @@
 Late-20s developer living in the Washington D.C. area.\
 I code for a living. Welcome and thanks for visiting my profile!
 
+LinkedIn: https://www.linkedin.com/in/jeremy-kim/
 <!--
 **jedokim/jedokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
