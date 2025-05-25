@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Late-20s developer living in the Washington D.C. area.\
+Developer living in the Washington D.C. area.\
 I code for a living. Welcome and thanks for visiting my profile!
 
 LinkedIn: https://www.linkedin.com/in/jeremy-kim/
