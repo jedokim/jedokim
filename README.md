@@ -4,7 +4,7 @@ Developer living in the Washington D.C. area.\
 I code for a living. Welcome and thanks for visiting my profile!
 
 LinkedIn: https://www.linkedin.com/in/jeremy-kim/ \
-Graduated from UNC Chapel Hill, Class of 2018 \
+UNC Chapel Hill, Class of 2018 \
 Computer Science - Bachelor of Science
 <!--
 **jedokim/jedokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
